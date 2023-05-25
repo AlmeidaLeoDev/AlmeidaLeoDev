@@ -2,14 +2,14 @@
 
 <div>
 <a href="https://github.com/almeidaleodev">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AlmeidaLeoDev&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AlmeidaLeoDev&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"/> 
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaLeoDev&layout=compact&theme=dracula"/> 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Raf-CS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Leo-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leo-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Leo-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leo-CS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div> 
   
 ##
