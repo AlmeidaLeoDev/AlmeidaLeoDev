@@ -7,7 +7,7 @@
 <div align="left" dir="auto">
 </br>  
 <div align="left" dir="auto">
-<p dir="auto"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/6cadf6c115f03f0ae6eb1917ba8dc2bf978ff29886981578978add99cf80f215/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4665726e616e64612d4b6970706572267468656d653d626c75652d7768697465" alt="Kipper top languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaLeoDev&amp;theme=blue-white" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/AlmeidaLeoDev/github-readme-stats"><img src="https://camo.githubusercontent.com/6cadf6c115f03f0ae6eb1917ba8dc2bf978ff29886981578978add99cf80f215/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4665726e616e64612d4b6970706572267468656d653d626c75652d7768697465" alt="Kipper top languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaLeoDev&amp;theme=blue-white" style="max-width: 100%;"></a></p>
  </div>
 
 ##
