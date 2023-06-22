@@ -1,10 +1,5 @@
 ## Olá! Eu sou o Leonardo Almeida 👋
 
-<div>
-<a href="https://github.com/almeidaleodev">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AlmeidaLeoDev&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"/> 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaLeoDev&layout=compact&theme=dracula"/> 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-CS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
