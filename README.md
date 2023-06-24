@@ -17,6 +17,13 @@
 <div align="left" dir="auto">
 
 ##
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlmeidaLeoDev&show_icons=true&theme=transparent" alt="clement-fortin" width=400 height=167/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaLeoDev&layout=compact&show_icons=true&theme=transparent" alt="clement-fortin" width=400 height=167/>
+</div>
+
+##
   
 <div> 
   <a href="https://www.youtube.com/@TioDevEnsina" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
