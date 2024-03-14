@@ -11,7 +11,7 @@
 ##
 
 <li><g-emoji class="g-emoji" alias="_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩‍💻</g-emoji>Desenvolvedor de Software Back-end - Freelancer</li>
-<li><g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥</g-emoji> Produtor de conteúdo técnico, crio conteúdo de tecnologia no meu canal do YouTube. <a href="https://www.youtube.com/channel/UCT6Q9faMe-uodEjv6SSj-OA" rel="nofollow">YouTube</a> and share informative content on my <a href="https://www.instagram.com/leoalmeida.me/" rel="nofollow">Instagram</a>.</li>
+<li><g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥</g-emoji> Produtor de conteúdo técnico, crio conteúdo de tecnologia no meu canal do YouTube. <a href="https://www.youtube.com/channel/UCT6Q9faMe-uodEjv6SSj-OA" rel="nofollow">YouTube</a>
 <li><td align="center"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻 Pensamento algorítmico, paixão criativa: Transformo problemas em algoritmos e criatividade em código.</g-emoji></td></li>
 <div align="left" dir="auto">
 
@@ -25,8 +25,7 @@
 ##
   
 <div> 
-  <a href="https://www.youtube.com/@TioDevEnsina" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/leoalmeida.me" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@TecMundoFantastico" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:almeidaleo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/almeidaleo-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
