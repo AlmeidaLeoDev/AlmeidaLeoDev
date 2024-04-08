@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Leonardo Almeida 👋
 
-(C# | SQL | Javascript | HTML | CSS | Bootstrap ) 🚀
+(C# | SQL | HTML | CSS | Bootstrap ) 🚀
 <div style="display: inline_block">
   <img align="center" alt="Leo-CS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Leo-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
