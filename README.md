@@ -10,8 +10,8 @@
 
 ##
 
-<li><g-emoji class="g-emoji" alias="_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩‍💻</g-emoji>Desenvolvedor de Software Back-end .NET</li>
-<li><g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥</g-emoji> Produtor de conteúdo técnico, crio conteúdo de tecnologia no meu canal do YouTube. <a href="https://www.youtube.com/channel/UCT6Q9faMe-uodEjv6SSj-OA" rel="nofollow">YouTube</a>
+<li><g-emoji class="g-emoji" alias="_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩‍💻</g-emoji>Desenvolvedor de Software Full-Stack .NET / Javascript</li>
+<li><g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥</g-emoji> Produtor de conteúdo técnico, crio conteúdo de tecnologia no meu canal do YouTube. <a href="https://www.youtube.com/@OazizDigital" rel="nofollow">YouTube</a>
 <li><td align="center"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻 Pensamento algorítmico, paixão criativa: Transformo problemas em algoritmos e criatividade em código.</g-emoji></td></li>
 <div align="left" dir="auto">
 
